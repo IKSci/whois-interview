@@ -16,6 +16,6 @@ docker build -t flask-whois-app .
 ```sh
 docker run -d -p 5000:5000 flask-whois-app
 ```
-Go to the http://localchost:5000/lookup_whois?domain_name=kiwi.kz <br>
+Go to the localchost:5000/lookup_whois?domain_name=kiwi.kz <br>
 You can change domain which you will like to check by specifying `domain_name=` parameter
 
