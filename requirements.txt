@@ -1,0 +1,5 @@
+flask
+validators
+beautifulsoup4
+sqlalchemy 
+requests
